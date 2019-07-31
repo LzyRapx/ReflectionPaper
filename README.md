@@ -17,6 +17,6 @@
   
   Fault tolerance of self-driving is extremely low, and people may not want to put their lives to some algorithms. Driving assistants (L2 or L3) will be the solid first step. But cool concepts can attract more money, so many companies say they want L4 solution.
   
-  Hope the future getting better.
+  Hope the future is getting better.
 
 ---
