@@ -1,7 +1,7 @@
 # ReflectionPapers
 #### Add my thoughts and analysis to what I have read and experienced.
 ---
-### [1] Reflection of [China-s-self-driving-car-prowess-is-greatly-exaggerated](https://asia.nikkei.com/Opinion/China-s-self-driving-car-prowess-is-greatly-exaggerated)
+### [1] Reflection of [China’s-self-driving-car-prowess-is-greatly-exaggerated](https://asia.nikkei.com/Opinion/China-s-self-driving-car-prowess-is-greatly-exaggerated)
 
   After reading this article, the article mainly describes two points. First. Waymo is the best. Second. China's self-driving car prowess is exaggerated. But unfortunately, this article chooses wrong Chinese examples. (Baidu, Pony & WeRide were great, but all have problems now). 
   
